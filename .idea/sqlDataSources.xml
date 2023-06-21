@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="89878a68-5c6a-480a-ac94-1b45b1cc76a5" name="workshop3@localhost Mapping">
+      <data-sources db="9dbd9ae7-471f-430f-b072-a5e6ed03fbbf" ddl="8da94331-9cb4-4c7e-943e-870226a727f6" />
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="8da94331-9cb4-4c7e-943e-870226a727f6" />
+          <option name="name" value="workshop3@localhost (DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
